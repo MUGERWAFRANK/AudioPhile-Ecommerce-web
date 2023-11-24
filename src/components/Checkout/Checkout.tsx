@@ -188,7 +188,7 @@ const Checkout = ({
                       <Field
                         type="text"
                         name="name"
-                        placeholder="Lazare Chkharitshvili"
+                        placeholder="Mugerwa Frank"
                         className={`${
                           errors.name && touched.name
                             ? "focus:border-[#ff0000]"
@@ -214,7 +214,7 @@ const Checkout = ({
                       <Field
                         type="email"
                         name="email"
-                        placeholder="chxartishvililazare@gmail.com"
+                        placeholder="mugerwafrank47@gmail.com"
                         className={`${
                           errors.email && touched.email
                             ? "focus:border-[#ff0000]"
@@ -241,7 +241,7 @@ const Checkout = ({
                     <Field
                       type="number"
                       name="phoneNumber"
-                      placeholder="+995 123 45 67 89 10"
+                      placeholder="+256 77 88 80 079"
                       className={`${
                         errors.phoneNumber && touched.phoneNumber
                           ? "focus:border-[#ff0000]"
@@ -272,7 +272,7 @@ const Checkout = ({
                     <Field
                       type="text"
                       name="address"
-                      placeholder="Platform 9¾"
+                      placeholder="kampala-Uganda"
                       className={`${
                         errors.address && touched.address
                           ? "focus:border-[#ff0000]"
@@ -300,7 +300,7 @@ const Checkout = ({
                       <Field
                         type="text"
                         name="zip"
-                        placeholder="1120"
+                        placeholder="256"
                         className={`${
                           errors.zip && touched.zip
                             ? "focus:border-[#ff0000]"
@@ -327,7 +327,7 @@ const Checkout = ({
                       <Field
                         type="text"
                         name="city"
-                        placeholder="Kanudosi"
+                        placeholder="Kampala"
                         className={`${
                           errors.city && touched.city
                             ? "focus:border-[#ff0000]"
@@ -355,7 +355,7 @@ const Checkout = ({
                     <Field
                       type="text"
                       name="country"
-                      placeholder="Makondo"
+                      placeholder="Uganda"
                       className={`${
                         errors.country && touched.country
                           ? "focus:border-[#ff0000]"
